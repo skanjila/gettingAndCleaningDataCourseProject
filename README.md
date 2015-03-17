@@ -20,4 +20,4 @@ You should create one R script called run_analysis.R that does the following.
 
 ## Dependencies
 
-```run_analysis.R``` automatically installs ```reshape2``` and ```data.table```.f not available. 
+```run_analysis.R``` automatically installs ```reshape2``` and ```data.table```. 
